@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @anaagabyy
+- 👋 Hi, I’m yasmin
 - 👀 I’m interested in aprender mais sobre o github e as platarfomas de tecnogia
 - 🌱 I’m currently learning como usar github e aprender cada vez mais com o alura
 - 💞️ I’m looking to collaborate on me ajudar nas coisas que eu tenho dificuldade
